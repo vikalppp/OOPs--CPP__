@@ -17,8 +17,8 @@ int main()
 {
     Student s1;
 
-    s1.name = "Krishna";
-    s1.age = 19;
+    s1.name = "Vikalp";
+    s1.age = 20;
 
     s1.show();
 
